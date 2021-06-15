@@ -4,9 +4,9 @@
  Integrantes del equipo Thematic Team: 
    - Luis Guillermo Cruz Estrada
    - García Zepeda Juan Carlos
-			- Martínez Garay Ximena Itzel
-			- Martínez Ruiz Alan
-			- Valadez Vazquez Lucia
+   - Martínez Garay Ximena Itzel
+   - Martínez Ruiz Alan
+   - Valadez Vazquez Lucia
  
  En este proyecto se aborda el tema del analisis de conversaciones con la finalidad de encontrar agresiones en estas.
 
